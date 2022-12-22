@@ -1,6 +1,6 @@
 # TTS Incremental Blackjack
  A Tabletop Simulator Blackjack Table meant for number enthusiasts.
- Version 2.14
+ Version 3.0
  
  Included is the following:
  - Unnecessarily high denominations of poker chips, and even more are unused
@@ -11,6 +11,7 @@
  - Token Pokeball Printers
  - Support for up to 10 Players
  - 3 Minigames
+ - A Raffle System that requires the table host to distribute prizes
  
  A lot of work went into this to make sure it's as stable as it can be.
 
@@ -42,3 +43,4 @@
    - Various extra Powerups
    - Collectable Tokens (reskinned with the new Poker Chip templates)
    - Extra Metal Chest textures
+   - The Raffle System
