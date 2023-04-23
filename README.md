@@ -44,3 +44,4 @@
    - Collectable Tokens (reskinned with the new Poker Chip templates)
    - Extra Metal Chest textures
    - The Raffle System
+   - The Powerup Board Code
