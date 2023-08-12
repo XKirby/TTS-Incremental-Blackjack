@@ -1,9 +1,9 @@
 # TTS Incremental Blackjack
  A Tabletop Simulator Blackjack Table meant for number enthusiasts.
- Version 3.0
+ Version 3.2.0.1
  
  Included is the following:
- - Unnecessarily high denominations of poker chips, and even more are unused
+ - Unnecessarily high denominations of poker chips
  - Multiple Powerups
  - Multiple tiers of Prestige
  - A Powerup Converter
