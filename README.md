@@ -1,6 +1,6 @@
 # TTS Incremental Blackjack
  A Tabletop Simulator Blackjack Table meant for number enthusiasts.
- Version 3.2.0.1
+ Version 4.0
  
  Included is the following:
  - Unnecessarily high denominations of poker chips
